@@ -31,7 +31,7 @@ An example is `fix(learn): Fixed tests for the do...while loop challenge`.
 
     ![Image - Comparing forks when making a pull request](/docs/images/github/comparing-forks-for-pull-request.png)
 
-3. Submit the pull request from your branch to freeCodeCamp's `master` branch.
+3. Submit the pull requests from your branch to freeCodeCamp's `master` branch.
 
 4. In the body of your PR include a more detailed summary of the changes you made and why.
 
